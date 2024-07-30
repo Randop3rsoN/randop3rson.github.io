@@ -1,15 +1,15 @@
 
 h1 {
-    font-size: large;
+    font-size: 75px;
     font-weight: bold;
 }
 
-title {
-    font-size: larger;
+p {
+    font-size: large;
     font-style: oblique;
 }
 
-P {
+p {
     font-size: large;
     font-weight: bold;
 }

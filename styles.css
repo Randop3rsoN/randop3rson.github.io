@@ -8,3 +8,8 @@ title {
     font-size: larger;
     font-style: oblique;
 }
+
+P {
+    font-size: large;
+    font-weight: bold;
+}
